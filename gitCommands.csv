@@ -7,3 +7,4 @@ git-notes,Add or inspect object notes
 git-pull,Fetch from and integrate with another repository or a local branch
 git-push,Update remote refs along with associated objects
 git-range-diff,Compare two commit ranges (e.g. two versions of a branch)
+git-rebase,Reapply commits on top of another base tip
