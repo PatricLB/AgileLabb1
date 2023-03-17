@@ -15,3 +15,4 @@ git-describe[1],Give an object a human readable name based on an available ref
 git-diff[1],Show changes between commits, commit and working tree, etc
 git-fetch[1],Download objects and refs from another repository
 git-format-patch[1],Prepare patches for e-mail submission
+git-gc[1],Cleanup unnecessary files and optimize the local repository
