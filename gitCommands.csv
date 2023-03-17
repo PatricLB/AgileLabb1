@@ -6,3 +6,4 @@ git-bisect[1],Use binary search to find the commit that introduced a bug
 git-branch[1],List, create, or delete branches
 git-bundle[1],Move objects and refs by archive
 git-checkout[1],Switch branches or restore working tree files
+git-cherry-pick[1],Apply the changes introduced by some existing commits
