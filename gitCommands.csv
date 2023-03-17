@@ -6,3 +6,4 @@ git-mv,Move or rename a file, a directory, or a symlink
 git-notes,Add or inspect object notes
 git-pull,Fetch from and integrate with another repository or a local branch
 git-push,Update remote refs along with associated objects
+git-range-diff,Compare two commit ranges (e.g. two versions of a branch)
