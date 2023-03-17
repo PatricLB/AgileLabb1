@@ -12,3 +12,4 @@ git-clean[1],Remove untracked files from the working tree
 git-clone[1],Clone a repository into a new directory
 git-commit[1],Record changes to the repository
 git-describe[1],Give an object a human readable name based on an available ref
+git-diff[1],Show changes between commits, commit and working tree, etc
