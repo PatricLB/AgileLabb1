@@ -9,3 +9,4 @@ git-checkout[1],Switch branches or restore working tree files
 git-cherry-pick[1],Apply the changes introduced by some existing commits
 git-citool[1],Graphical alternative to git-commit
 git-clean[1],Remove untracked files from the working tree
+git-clone[1],Clone a repository into a new directory
