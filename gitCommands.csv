@@ -18,3 +18,4 @@ git-format-patch[1],Prepare patches for e-mail submission
 git-gc[1],Cleanup unnecessary files and optimize the local repository
 git-grep[1],Print lines matching a pattern
 git-gui[1],A portable graphical interface to Git
+git-init[1],Create an empty Git repository or reinitialize an existing one
