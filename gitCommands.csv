@@ -16,3 +16,4 @@ git-shortlog,Summarize git log output
 git-show,Show various types of objects
 git-sparse-checkout,Reduce your working tree to a subset of tracked files
 git-stash,Stash the changes in a dirty working directory away
+git-status,Show the working tree status
