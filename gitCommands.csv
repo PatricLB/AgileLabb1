@@ -11,3 +11,4 @@ git-rebase,Reapply commits on top of another base tip
 git-reset,Reset current HEAD to the specified state
 git-restore,Restore working tree files
 git-revert,Revert some existing commits
+git-rm,Remove files from the working tree and from the index
