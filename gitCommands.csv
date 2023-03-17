@@ -13,3 +13,4 @@ git-restore,Restore working tree files
 git-revert,Revert some existing commits
 git-rm,Remove files from the working tree and from the index
 git-shortlog,Summarize git log output
+git-show,Show various types of objects
