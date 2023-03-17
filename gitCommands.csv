@@ -2,3 +2,4 @@ GitCommand,Description
 git-log,Show commit logs
 git-maintenance,Run tasks to optimize Git repository data
 git-merge,Join two or more development histories together
+git-mv,Move or rename a file, a directory, or a symlink
