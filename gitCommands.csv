@@ -14,3 +14,4 @@ git-revert,Revert some existing commits
 git-rm,Remove files from the working tree and from the index
 git-shortlog,Summarize git log output
 git-show,Show various types of objects
+git-sparse-checkout,Reduce your working tree to a subset of tracked files
